@@ -3,6 +3,8 @@
 @tailwind utilities;
 @tailwind variants;
 
+@import url(../components/lib/styles.css);
+
 h1,
 h2,
 h3,
